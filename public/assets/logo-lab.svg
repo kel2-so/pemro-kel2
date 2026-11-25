@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 96 96"
+     role="img"
+     aria-label="Logo Inventaris Laboratorium">
+
+    <rect width="96" height="96"
+          rx="22" fill="#0d6efd"/>
+
+    <path d="M36 17h24v7h-5v20.5l18.2 29.1A7 7 0 0 1 67.3 84H28.7a7 7 0 0 1-5.9-10.4L41 44.5V24h-5z"
+          fill="#fff"/>
+
+    <path d="M39 59h18l10 16H29z"
+          fill="#7dd3fc"/>
+
+    <path d="M40 50h16"
+          stroke="#0d6efd"
+          stroke-width="4"
+          stroke-linecap="round"/>
+
+    <circle cx="46" cy="67" r="3" fill="#0d6efd"/>
+    <circle cx="56" cy="73" r="2.5" fill="#0d6efd"/>
+
+</svg>
